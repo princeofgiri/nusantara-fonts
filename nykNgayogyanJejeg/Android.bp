@@ -47,7 +47,7 @@ license {
 }
 
 prebuilt_font {
-    name: "nyk_ngayogyan_jejeg.ttf",
+    name: "nyk_ngayogyan_jejeg",
     src: "nyk_ngayogyan_jejeg.ttf",
     product_specific: true,
 }
