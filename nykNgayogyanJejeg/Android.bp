@@ -47,15 +47,15 @@ license {
 }
 
 prebuilt_font {
-    name: "nykNgayogyanJejeg.ttf",
-    src: "nykNgayogyanJejeg.ttf",
+    name: "nyk_ngayogyan_jejeg.ttf",
+    src: "nyk_ngayogyan_jejeg.ttf",
     product_specific: true,
 }
 filegroup {
-    name: "nykNgayogyanJejeg",
+    name: "nyk_ngayogyan_jejeg",
     srcs: ["font_config.json"],
     required: [
-        "nykNgayogyanJejeg.ttf",
+        "nyk_ngayogyan_jejeg.ttf",
     ],
 }
 prebuilt_etc {

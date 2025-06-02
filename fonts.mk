@@ -23,4 +23,4 @@ $(call soong_config_set,flag_emoji_font,flag_emoji_font_version,$(RELEASE_PACKAG
 
 PRODUCT_PACKAGES := \
     $(PRODUCT_PACKAGES) \
-    nykNgayogyanJejeg.ttf
+    nyk_ngayogyan_jejeg.ttf

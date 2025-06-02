@@ -17,4 +17,4 @@
 # get installed too.
 
 PRODUCT_PACKAGES := \
-    nykNgayogyanJejeg.ttf
+    nyk_ngayogyan_jejeg.ttf
