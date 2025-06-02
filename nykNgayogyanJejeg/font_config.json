@@ -1,0 +1,14 @@
+[
+  {
+    "lang": "und-Java",
+    "priority": -10,
+    "fonts": [
+      {
+        "file": "nykNgayogyanJejeg.ttf",
+        "weight": 400,
+        "style": "normal",
+        "postScriptName": "nykNgayogyanJejeg"
+      }
+    ]
+  }
+]

@@ -51,3 +51,16 @@ prebuilt_font {
     src: "nykNgayogyanJejeg.ttf",
     product_specific: true,
 }
+filegroup {
+    name: "nykNgayogyanJejeg",
+    srcs: ["font_config.json"],
+    required: [
+        "nykNgayogyanJejeg.ttf",
+    ],
+}
+prebuilt_etc {
+    name: "fonts_customization.xml",
+
+    src: "fonts_customization.xml",
+    product_specific: true,
+}
