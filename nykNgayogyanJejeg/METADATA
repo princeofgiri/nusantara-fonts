@@ -1,0 +1,17 @@
+name: "nykNgayogyanJejeg"
+description:
+    "Fonta Hanacaraka"
+
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://github.com"
+  }
+  url {
+    type: GIT
+    value: "https://github.com"
+  }
+  version: "94dff3eaa9301b6640cccc63c56d6ff33d82882c"
+  last_upgrade_date { year: 2020 month: 06 day: 01 }
+  license_type: NOTICE
+}
