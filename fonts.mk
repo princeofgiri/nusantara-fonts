@@ -17,10 +17,12 @@
 # get installed too.
 
 # Set emoji version in Android.bp
-$(call soong_config_set,emoji_font,emoji_font_version,$(RELEASE_PACKAGE_EMOJI_FONT_VERSION))
-$(call soong_config_set,flag_emoji_font,flag_emoji_font_version,$(RELEASE_PACKAGE_FLAG_EMOJI_FONT_VERSION))
+# $(call soong_config_set,emoji_font,emoji_font_version,$(RELEASE_PACKAGE_EMOJI_FONT_VERSION))
+# $(call soong_config_set,flag_emoji_font,flag_emoji_font_version,$(RELEASE_PACKAGE_FLAG_EMOJI_FONT_VERSION))
 
 
 PRODUCT_PACKAGES := \
-    $(PRODUCT_PACKAGES) \
-    nyk_ngayogyan_jejeg.ttf
+    nyk_ngayogyan_jejeg.ttf \
+    fonts_customization.xml  \
+    PlusJakartaSans-Regular.otf
+
