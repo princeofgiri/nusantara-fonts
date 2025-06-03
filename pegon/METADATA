@@ -1,6 +1,6 @@
-name: "nykNgayogyanJejeg"
+name: "z009_pegon_horison"
 description:
-    "Fonta Hanacaraka"
+    "Fonta Pegon"
 
 third_party {
   url {
@@ -11,7 +11,7 @@ third_party {
     type: GIT
     value: "https://github.com"
   }
-  version: "94dff3eaa9301b6640cccc63c56d6ff33d82882c"
-  last_upgrade_date { year: 2020 month: 06 day: 01 }
+  version: "4.00;October 3, 2023;FontCreator 11.5.0.2430 64-bit"
+  last_upgrade_date { year: 2023 month: 10 day: 04 }
   license_type: NOTICE
 }

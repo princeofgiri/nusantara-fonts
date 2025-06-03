@@ -1,16 +1,16 @@
-name: "nyk_ngayogyan_jejeg"
+name: "nykNgayogyanJejeg"
 designer: "Apri Nugroho, Arif Budiarto"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2020-07-22"
 fonts {
-  name: "nyk_ngayogyan_jejeg"
+  name: "nykNgayogyanJejeg"
   style: "normal"
   weight: 300
-  filename: "nyk_ngayogyan_jejeg.ttf"
-  post_script_name: "nyk_ngayogyan_jejeg"
-  full_name: "nyk_ngayogyan_jejeg"
-  copyright: "Copyright 2020 The nyk_ngayogyan_jejeg Project Authors (https://github.com/)"
+  filename: "nykNgayogyanJejeg.ttf"
+  post_script_name: "nykNgayogyanJejeg"
+  full_name: "nykNgayogyanJejeg"
+  copyright: "Copyright 2020 The nykNgayogyanJejeg Project Authors (https://github.com/)"
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"

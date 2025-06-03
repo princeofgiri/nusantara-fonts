@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<fonts-modification version="1">
-    <family customizationType="new-named-family" name="nyk_ngayogyan_jejeg">
-        <font weight="400" style="normal">nyk_ngayogyan_jejeg.ttf</font>
-    </family>
-<!--     <alias name="nykngayogyanjejeg" to="noto-sans" weight="400" /> -->
-</fonts-modification>

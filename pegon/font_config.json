@@ -1,10 +1,10 @@
 [
   {
-    "lang": "und-Java",
+    "lang": "und-Arab",
     "priority": -10,
     "fonts": [
       {
-        "file": "nyk_ngayogyan_jejeg.ttf",
+        "file": "z009_pegon_horison.ttf",
         "weight": 400,
         "style": "normal"
       }

@@ -16,7 +16,7 @@
 //     CONSULT THE OWNERS AND opensource-licensing@google.com BEFORE
 //     DEPENDING ON IT IN YOUR PROJECT. ***
 package {
-    default_applicable_licenses: ["external_nusantara-fonts_nykNgayogyanJejeg_license"],
+    default_applicable_licenses: ["external_nusantara-z009_pegon_horison_license"],
 }
 
 // Added automatically by a large-scale-change that took the approach of
@@ -34,7 +34,7 @@ package {
 // used in the current project.
 // See: http://go/android-license-faq
 license {
-    name: "external_nusantara-fonts_nykNgayogyanJejeg_license",
+    name: "external_nusantara-z009_pegon_horison_license",
     visibility: [":__subpackages__"],
     license_kinds: [
         "SPDX-license-identifier-MIT",
@@ -47,14 +47,14 @@ license {
 }
 
 prebuilt_font {
-    name: "nyk_ngayogyan_jejeg.ttf",
-    src: "nyk_ngayogyan_jejeg.ttf",
+    name: "z009_pegon_horison.ttf",
+    src: "z009_pegon_horison.ttf",
 }
 
 filegroup {
-    name: "nyk_ngayogyan_jejeg",
+    name: "z009_pegon_horison",
     srcs: ["font_config.json"],
     required: [
-        "nyk_ngayogyan_jejeg.ttf",
+        "z009_pegon_horison.ttf",
     ],
 }
