@@ -58,8 +58,3 @@ filegroup {
         "nyk_ngayogyan_jejeg.ttf",
     ],
 }
-
-prebuilt_etc {
-    name: "fonts_customization.xml",
-    src: "fonts_customization.xml",
-}
