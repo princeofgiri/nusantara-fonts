@@ -23,6 +23,7 @@
 
 PRODUCT_PACKAGES := \
     nyk_ngayogyan_jejeg.ttf \
-    fonts_customization.xml  \
-    PlusJakartaSans-Regular.otf
+    z009_pegon_horison.ttf
 
+PRODUCT_COPY_FILES += \
+    external/nusantara-fonts/fonts_customization.xml:${TARGET_COPY_OUT_SYSTEM}etc/fonts_customization.xml

@@ -1,0 +1,17 @@
+name: "z009_pegon_horison"
+description:
+    "Fonta Pegon"
+
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://github.com"
+  }
+  url {
+    type: GIT
+    value: "https://github.com"
+  }
+  version: "4.00;October 3, 2023;FontCreator 11.5.0.2430 64-bit"
+  last_upgrade_date { year: 2023 month: 10 day: 04 }
+  license_type: NOTICE
+}

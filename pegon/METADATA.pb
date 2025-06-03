@@ -1,0 +1,20 @@
+name: "z009_pegon_horison"
+designer: "Ahmad Ismail"
+license: "OFL"
+category: "SANS_SERIF"
+date_added: "2020-07-22"
+fonts {
+  name: "z009_pegon_horison"
+  style: "normal"
+  weight: 400
+  filename: "z009_pegon_horison.ttf"
+  post_script_name: "z009_pegon_horison"
+  full_name: "z009_pegon_horison"
+  copyright: "Copyright 2020 The z009_pegon_horison Project Authors (https://github.com/)"
+}
+subsets: "cyrillic"
+subsets: "cyrillic-ext"
+subsets: "hebrew"
+subsets: "latin"
+subsets: "latin-ext"
+subsets: "menu"

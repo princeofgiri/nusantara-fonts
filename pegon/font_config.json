@@ -1,0 +1,13 @@
+[
+  {
+    "lang": "und-Arab",
+    "priority": -10,
+    "fonts": [
+      {
+        "file": "z009_pegon_horison.ttf",
+        "weight": 400,
+        "style": "normal"
+      }
+    ]
+  }
+]
